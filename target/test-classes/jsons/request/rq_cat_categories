@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "Content-Type": "application/json",
+    "x-api-key": "726ad3db-3015-4fd6-9230-4032300ff5c3"
+  },
+  "urlOarameters": {},
+  "endpoint": "v1/categories/?x-api-key="
+}

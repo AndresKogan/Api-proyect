@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.856 s <<< FAILURE! - in TestSuite
+ApiExampleProjectTestRunner.runScenario  Time elapsed: 1.679 s  <<< FAILURE!
+java.lang.reflect.InvocationTargetException
+Caused by: java.lang.AssertionError: D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\src\test\resources\jsons\request\rq_cat_categories.json (El sistema no puede encontrar el archivo especificado)
+
