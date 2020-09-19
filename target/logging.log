@@ -1,0 +1,47 @@
+18/09/20 20:47:04 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 20:47:04 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 20:51:56 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 20:51:56 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 20:53:26 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 20:53:26 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 20:55:32 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 20:55:32 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 21:17:11 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 21:17:11 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 21:18:36 INFO  BasicHook:20 - ------ Starting -----Obtengo la lista de categorias-----
+18/09/20 21:18:37 ERROR MethodsService:99 - D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\src\test\resources\jsons\request\rq_cat_categories.json (El sistema no puede encontrar el archivo especificado)
+18/09/20 21:18:37 INFO  BasicHook:35 - ------ Ending -----Obtengo la lista de categorias-----
+18/09/20 21:18:37 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 21:18:37 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 21:32:32 INFO  BasicHook:20 - ------ Starting -----Obtengo la lista de categorias-----
+18/09/20 21:32:32 ERROR MethodsService:99 - D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\src\test\resources\jsons\request\rq_cat_categories.json (El sistema no puede encontrar el archivo especificado)
+18/09/20 21:32:32 INFO  BasicHook:35 - ------ Ending -----Obtengo la lista de categorias-----
+18/09/20 21:32:32 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 21:32:32 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 21:33:19 INFO  BasicHook:20 - ------ Starting -----Obtengo la lista de categorias-----
+18/09/20 21:33:20 ERROR MethodsService:99 - D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\src\test\resources\jsons\request\rq_cat_categories.json (El sistema no puede encontrar el archivo especificado)
+18/09/20 21:33:20 INFO  BasicHook:35 - ------ Ending -----Obtengo la lista de categorias-----
+18/09/20 21:33:20 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 21:33:20 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 21:34:13 INFO  BasicHook:20 - ------ Starting -----Obtengo la lista de categorias-----
+18/09/20 21:34:13 ERROR MethodsService:99 - D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\src\test\resources\jsons\request\rq_cat_categories.json (El sistema no puede encontrar el archivo especificado)
+18/09/20 21:34:13 INFO  BasicHook:35 - ------ Ending -----Obtengo la lista de categorias-----
+18/09/20 21:34:13 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 21:34:13 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 21:34:55 INFO  BasicHook:20 - ------ Starting -----Obtengo la lista de categorias-----
+18/09/20 21:34:55 ERROR MethodsService:99 - D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\src\test\resources\jsons\request\rq_cat_categories.json (El sistema no puede encontrar el archivo especificado)
+18/09/20 21:34:55 INFO  BasicHook:35 - ------ Ending -----Obtengo la lista de categorias-----
+18/09/20 21:34:55 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 21:34:55 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+18/09/20 21:35:28 INFO  BasicHook:20 - ------ Starting -----Obtengo la lista de categorias-----
+18/09/20 21:35:29 ERROR MethodsService:99 - D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\src\test\resources\jsons\request\rq_cat_categories.json (El sistema no puede encontrar el archivo especificado)
+18/09/20 21:35:29 INFO  BasicHook:35 - ------ Ending -----Obtengo la lista de categorias-----
+18/09/20 21:35:29 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+18/09/20 21:35:29 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+19/09/20 15:52:46 INFO  BasicHook:20 - ------ Starting -----Analisis de imagenes-----
+19/09/20 15:52:46 INFO  BasicHook:35 - ------ Ending -----Analisis de imagenes-----
+19/09/20 15:53:40 INFO  BasicHook:20 - ------ Starting -----Obtengo la imagen deseada-----
+19/09/20 15:53:40 INFO  BasicHook:35 - ------ Ending -----Obtengo la imagen deseada-----
+19/09/20 15:55:23 INFO  BasicHook:20 - ------ Starting -----Obtengo la lista de categorias-----
+19/09/20 15:55:24 ERROR MethodsService:99 - D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\src\test\resources\jsons\request\rq_cat_categories.json (El sistema no puede encontrar el archivo especificado)
+19/09/20 15:55:24 INFO  BasicHook:35 - ------ Ending -----Obtengo la lista de categorias-----

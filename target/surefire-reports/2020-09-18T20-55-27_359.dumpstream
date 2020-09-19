@@ -1,0 +1,4 @@
+# Created at 2020-09-18T20:55:29.213
+Boot Manifest-JAR contains absolute paths in classpath 'D:\UTN\Autodidacta\Crowdar\Lippia-API-sample-project-master\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

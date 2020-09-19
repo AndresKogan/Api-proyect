@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "Content-Type": "application/json",
+    "x-api-key": "726ad3db-3015-4fd6-9230-4032300ff5c3"
+  },
+  "urlParameters": {},
+  "endpoint":"v1/images/8/analysis"
+}
